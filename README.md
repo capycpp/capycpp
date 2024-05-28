@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @capyHacker, My real name is Ulvi, I use "capycpp" nick in games!
+- 👀 I’m interested in Rubik's Cubes, Programming in C++ and Unreal Engine!
+- 🌱 I’m currently learning C++, BluePrint and Full CFOP Alghs!
+- 📫 How to reach me: capycpp@outlook.com, 2812239@student.edu.az, sadiqliulvi77@gmail.com
+- ⚡ Fun fact: My Rubik's Cube PB is 27.83 Seconds!
