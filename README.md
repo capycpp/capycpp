@@ -8,11 +8,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left"> About Me</h3>
 
 ###
 
-<p align="left">I'm Ulvi from Azerbaijan!<br><br>- 📚 I'm currently learning C++ and Blueprint<br>- ⚡ In my free time I am playing with Rubik's Cubes and playing games!</p>
+<p align="left"><br><br>- 📚 I'm currently learning C++ and Blueprint<br>- ⚡ </p>
 
 ###
 
