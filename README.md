@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left"><br><br>- 📚 I'm currently learning C++ and Blueprint<br>- ⚡and I also loves video games! </p>
+<p align="left"><br><br>- 📚 I'm currently learning C++ and Blueprint<br>- ⚡and I also love video games! </p>
 
 ###
 
